@@ -32,6 +32,10 @@
 * Make `redundant_objc_attribute` rule autocorrectable.  
   [Daniel Metzing](https://github.com/dirtydanee)
 
+* Warn if a configured rule is not enabled.  
+  [Marcelo Fabri](https://github.com/marcelofabri)
+  [#1350](https://github.com/realm/SwiftLint/issues/1350)
+
 #### Bug Fixes
 
 * Fix `explicit_type_interface` when used in statements.  
